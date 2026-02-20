@@ -1,2 +1,3 @@
 testng is automation testing framework
 selenium is a automation testing tool java based
+load test and stress test
